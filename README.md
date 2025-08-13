@@ -20,5 +20,40 @@ It’s designed for:
 
 ---
 
+---
+
+## 📚 Resources
+We have curated resources for each topic:
+- [Recommended Resources](resources/recommended_resources.md)
+- Includes textbooks, YouTube lectures, and MOOCs.
+
+---
+
+## 🛠 How to Use This Repo
+1. Start at **Level 1** and move sequentially.
+2. Use provided resources for each topic.
+3. Track your progress using GitHub checklists or notes.
+4. Explore deeper concepts in **Level 4** if aiming for research.
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome!  
+If you have better resources or corrections:
+- Fork this repo
+- Add/update files
+- Submit a pull request
+
+---
+
+## 📜 License
+MIT License — feel free to use and modify with attribution.
+
+---
+
+## 💡 Author
+Created by [Chinmaya Padhi] for learners and researchers in ML/AI.
+
+
 
 
