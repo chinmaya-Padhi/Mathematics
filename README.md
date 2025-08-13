@@ -18,10 +18,7 @@ It’s designed for:
 | 3️⃣ Advanced Topics for AI/DL | Advanced Linear Algebra, Advanced Calculus, Information Theory, Numerical Methods, Fourier & Wavelet Analysis |
 | 4️⃣ Research-Level / Specialization Math | Advanced Optimization, Measure Theory, Functional Analysis, Graph Theory, Differential Geometry, Topology, Advanced Statistics |
 
-📌 **Visual Roadmap:**  
-![Math Roadmap](images/Mathematics Roadmap for AI_ML.png)
-
 ---
 
-## 📂 Folder Structure
+
 
