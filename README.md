@@ -19,7 +19,7 @@ It’s designed for:
 | 4️⃣ Research-Level / Specialization Math | Advanced Optimization, Measure Theory, Functional Analysis, Graph Theory, Differential Geometry, Topology, Advanced Statistics |
 
 📌 **Visual Roadmap:**  
-![Math Roadmap](images/math_roadmap.png)
+![Math Roadmap](../images/Mathematics Roadmap for AI_ML.png)
 
 ---
 
